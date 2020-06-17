@@ -62,3 +62,8 @@ html{
     margin: auto;
     text-align: center;
 }
+
+.responsive {
+  width: 50%;
+  height: auto;
+}
